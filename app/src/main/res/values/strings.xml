@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Decision-Maker</string>
+    <string name="decision_maker">decision-maker</string>
+    <string name="next">Продолжить…</string>
+    <string name="result">Результат</string>
+    <string name="hello">Привет, братюня! Я помогу тебе сделать выбор</string>
+    <string name="condition1">Введи первый вариант решения</string>
+    <string name="condition2">Введи второй вариант решения</string>
+    <string name="name">Name</string>
+    <string name="answer">Думаю, тебе лучше:</string>
+    <string name="beginning">В начало</string>
+
+
+</resources>

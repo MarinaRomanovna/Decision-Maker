@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.marina_romanovna.decision_maker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_gomer"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_gomer_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DecisionMaker">
+        <activity android:name="com.marina_romanovna.decision_maker.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.marina_romanovna.decision_maker.QuestionsActivity">
+
+        </activity>
+        <activity android:name="com.marina_romanovna.decision_maker.ResultActivity">
+
+        </activity>
+
+    </application>
+
+</manifest>
