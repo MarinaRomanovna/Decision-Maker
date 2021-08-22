@@ -1,6 +1,3 @@
 # Decision-Maker
-My first project
-I’m very interested in Android-development
-I want to be realized in this direction
-Now it's my hobby, I like to create something with my own hands for the benefit
-I belive that I will succeed
+If you don't know how to choose between two solutions, then this application is for you
+Just enter your supposed solutions on the keyboard and get a decision
