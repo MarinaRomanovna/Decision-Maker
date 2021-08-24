@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Decision-Maker</string>
+    <string name="decision_maker">decision-maker</string>
+    <string name="next">Continue...</string>
+    <string name="result">Result</string>
+    <string name="hello">Hi, Bro! I\'ll help you to make the decision</string>
+    <string name="condition1">Type in your first solution</string>
+    <string name="condition2">Type in your second solution</string>
+    <string name="name">Name</string>
+    <string name="answer">I think, you better:</string>
+    <string name="beginning">" To the beginning"</string>
+</resources>
